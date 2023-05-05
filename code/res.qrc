@@ -1,0 +1,47 @@
+<RCC>
+    <qresource prefix="/">
+        <file>happyelimres/happyelim0001.png</file>
+        <file>happyelimres/happyelim0002.png</file>
+        <file>happyelimres/happyelim0003.png</file>
+        <file>happyelimres/happyelim0004.png</file>
+        <file>happyelimres/happyelim0005.png</file>
+        <file>happyelimres/happyelim0006.png</file>
+        <file>happyelimres/happyelim0007.png</file>
+        <file>happyelimres/happyelim0008.png</file>
+        <file>happyelimres/happyelim0009.png</file>
+        <file>happyelimres/happyelim0010.png</file>
+        <file>happyelimres/happyelim0012.png</file>
+        <file>happyelimres/happyelim0011.png</file>
+        <file>happyelimres/happyelim0013.png</file>
+        <file>happyelimres/happyelim0014.png</file>
+        <file>happyelimres/happyelim0015.png</file>
+        <file>happyelimres/happyelim0016.png</file>
+        <file>happyelimres/happyelim0017.png</file>
+        <file>happyelimres/happyelim0018.png</file>
+        <file>happyelimres/happyelim0019.png</file>
+        <file>happyelimres/happyelim0020.png</file>
+        <file>happyelimres/happyelim0021.png</file>
+        <file>happyelimres/happyelim0022.png</file>
+        <file>happyelimres/happyelim0023.png</file>
+        <file>happyelimres/happyelim0024.png</file>
+        <file>happyelimres/happyelim0025.png</file>
+        <file>happyelimres/happyelim0026.png</file>
+        <file>happyelimres/happyelim0027.png</file>
+        <file>happyelimres/happyelim0028.png</file>
+        <file>happyelimres/happyelim0029.png</file>
+        <file>happyelimres/happyelim0030.png</file>
+        <file>happyelimres/happyelim0031.png</file>
+        <file>happyelimres/happyelim0032.png</file>
+        <file>happyelimres/happyelim0033.jpg</file>
+        <file>happyelimres/account.txt</file>
+        <file>happyelimres/password.txt</file>
+        <file>happyelimres/data_of_ranklist.txt</file>
+        <file>happyelimres/happyelim0034.jpg</file>
+        <file>happyelimres/happyelim0035.png</file>
+        <file>happyelimres/happyelim0036.png</file>
+        <file>happyelimres/happyelim0037.png</file>
+        <file>happyelimres/happyelim0038.png</file>
+        <file>happyelimres/happyelim0039.jpg</file>
+        <file>happyelimres/happyelim0040.png</file>
+    </qresource>
+</RCC>
